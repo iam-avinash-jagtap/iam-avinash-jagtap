@@ -18,8 +18,6 @@
 
 ###
 
-![AWS](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.linkedin.com%2Fin%2Fpayal-deshmukh-ba08bb245&psig=AOvVaw1T3Hl9BcaYE0HvyEKBH14Q&ust=1738847373191000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJDvt73NrIsDFQAAAAAdAAAAABAg)
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />

@@ -1,27 +1,50 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+### Hey 👋 What's up?
 
 ###
 
-<h4 align="left">I am Avinash and I'm passionate DevOps Practitioner from India</h4>
+<h4 align="left">I am Avinash,I'm passionate DevOps Practitioner from India</h4>
 
-###
+I mostly work with Cloud based technologies. 🚀
 
-<h2 align="left"></h2>
+<p float="left">
+  <a href="https://python.org/" target="_blank" >
+    <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
+  </a>
+  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
+  </a>
+  <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
+  </a>
+ </p>
 
-###
+### Cloud 
 
-<p align="left">✨I'm a DevOps Engineer with a strong background in Azure & AWS Administration ☁️, Linux 🐧, PowerShell ⚡, and Computer Networking 🌐. I specialize in designing secure and scalable cloud architectures, automating deployments, and optimizing infrastructure for performance and security.<br><br>🛠️ Tech Stack & Skills:<br>🔹 Cloud Platforms: AWS ☁️ | Azure 💙<br>🔹 DevOps Tools: Terraform 🏗️ | Docker 🐳 | Kubernetes 🚢 | Ansible 🤖 | Jenkins 🛠️<br>🔹 Scripting & Automation: PowerShell ⚡ | Bash 💻 | Python 🐍<br>🔹 Networking: VPC 🌍 | Security Groups 🔒 | Load Balancing ⚖️ | Bastion Hosts 🏰<br><br>📌 What I’m Working On:<br>🔥 Hands-on practice on AWS DevOps<br>🔒 Building secure VPC architectures with restricted private subnet access<br>🚀 Developing scalable and automated CI/CD pipelines</p>
-
-###
-
-<h2 align="left">Tools & Softwares</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+<p float="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+</p>
+
+### DevOps
+  
+ <p float="left">
+  <a href="https://aws.amazon.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
+  </a>
+ </p>
+  
+### Tools & Software's
+  
+  <p float="left">
+  <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo"  />
   <img width="12" />
@@ -35,17 +58,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+
 </div>
 
 ###
+</p>
+
+### 📫 How to reach me?
+
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/shubhamlondhe1996/) 👨🏻‍💻
+ - Follow me on [Mediuam](https://medium.com/@avijagtap04) ✨
+ - Shoot Me an [Email](avijagtap0493@gmail.com) 💌

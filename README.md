@@ -1,10 +1,10 @@
-### Hey 👋 What's up?
+### Hey 👋 What's up?🚀
 
 ###
 
-<h4 align="left">I am Avinash,I'm passionate DevOps Practitioner from India</h4>
+<h4 align="left">I am Avinash, I'm passionate DevOps Practitioner from India.🤖</h4>
 
-I mostly work with Cloud based technologies. 🚀
+I mostly work with Cloud based technologies.☁️⚡
 
 <p float="left">
   <a href="https://python.org/" target="_blank" >
@@ -21,7 +21,7 @@ I mostly work with Cloud based technologies. 🚀
   </a>
  </p>
 
-### DevOps
+### DevOps♾️⚙️
   
  <p float="left">
   <a href="https://aws.amazon.com/" target="_blank" >
@@ -29,7 +29,7 @@ I mostly work with Cloud based technologies. 🚀
   </a>
  </p>
  
-### Cloud 
+### Cloud☁️🖥️
 
 <p float="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
@@ -39,7 +39,7 @@ I mostly work with Cloud based technologies. 🚀
 </p>
 
   
-### OS & Service's
+### OS💿 & Service's🛠
   
   <p float="left">
   <div align="left">
@@ -65,8 +65,10 @@ I mostly work with Cloud based technologies. 🚀
 ###
 </p>
 
-### 📫 How to reach me?
+### 📫 How to reach me?📩
 
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/shubhamlondhe1996/) 👨🏻‍💻
  - Follow me on [Mediuam](https://medium.com/@avijagtap04) ✨
  - Shoot Me an [Email](avijagtap0493@gmail.com) 💌
+
+

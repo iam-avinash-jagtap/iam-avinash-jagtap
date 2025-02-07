@@ -2,9 +2,9 @@
 
 ###
 
-<h4 align="left">I am Avinash, I'm passionate DevOps Practitioner from India.🤖</h4>
+<h4 align="left">I am Avinash, a passionate DevOps Practitioner from India.🤖</h4>ㅤㅤㅤㅤㅤㅤㅤ
 
-I mostly work with Cloud based technologies.☁️⚡
+_I primarily work with cloud-based technologies.☁️⚡_
 
 <p float="left">
   <a href="https://python.org/" target="_blank" >
@@ -65,10 +65,15 @@ I mostly work with Cloud based technologies.☁️⚡
 ###
 </p>
 
+### What I’m Working On:
+<p align="left">
+🔥 Hands-on practice on AWS DevOps<br>🔒 Building secure VPC architectures with restricted private subnet access<br>🚀 Developing scalable and automated CI/CD pipelines
+
+</p>
+
 ### 📫 How to reach me?📩
 
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/shubhamlondhe1996/) 👨🏻‍💻
  - Follow me on [Mediuam](https://medium.com/@avijagtap04) ✨
- - Shoot Me an [Email](avijagtap0493@gmail.com) 💌
 
 

@@ -73,7 +73,7 @@ _I primarily work with cloud-based technologies.☁️⚡_
 
 ### 📫 How to reach me?📩
 
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/shubhamlondhe1996/) 👨🏻‍💻
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/avinash-jagtap-48633b23b/) 👨🏻‍💻
  - Follow me on [Mediuam](https://medium.com/@avijagtap04) ✨
 
 

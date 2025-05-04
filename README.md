@@ -45,6 +45,8 @@ _I primarily work with cloud-based technologies.☁️⚡_
   <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
+    <img src="https://icons8.com/icon/j3a3wWATUlM8/windows-11" height="40" alt="Windows 11 logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo"  />
@@ -67,7 +69,10 @@ _I primarily work with cloud-based technologies.☁️⚡_
 
 ### What I’m Working On:
 <p align="left">
-🔥 Hands-on practice on AWS DevOps<br>🔒 Building secure VPC architectures with restricted private subnet access<br>🚀 Developing scalable and automated CI/CD pipelines
+🔧☁️ Working with AWS services like EC2, S3, IAM, VPC, and CloudWatch for cloud infrastructure management.<br>
+🐳📦 Building and deploying containerized applications using Docker for scalable environments.<br>
+⚙️🧪 Automating CI/CD pipelines using Jenkins for smooth and reliable software delivery.<br>
+🛠️📜 Exploring Infrastructure as Code with Terraform to efficiently provision and manage cloud resources.
 
 </p>
 

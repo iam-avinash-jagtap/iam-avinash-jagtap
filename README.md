@@ -37,9 +37,10 @@ _I primarily work with cloud-based technologies.☁️⚡_
 
 ### 📫 How to reach me?📩
 
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/avinash-jagtap-48633b23b/) 👨🏻‍💻
- - Follow me on [Mediuam](https://medium.com/@avijagtap04) ✨
- - Direct Connect- [avijagtap0493@gmail.com] 📩
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/avinash-jagtap-48633b23b/) 👨🏻‍💻  
+- Follow me on [Medium](https://medium.com/@avijagtap04) ✨  
+- Direct Connect - [avijagtap0493@gmail.com](mailto:avijagtap0493@gmail.com) 📩
+
 
 ## Projects & Hands-on 
 

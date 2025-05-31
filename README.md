@@ -76,4 +76,50 @@ _I primarily work with cloud-based technologies.☁️⚡_
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/avinash-jagtap-48633b23b/) 👨🏻‍💻
  - Follow me on [Mediuam](https://medium.com/@avijagtap04) ✨
 
+# Projects & Hands-on 
+
+
+
+| Domain                       | Skills/Tools                                   | Projects/Hands-on                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| ---------------------------- | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Cloud**                    | AWS                                            | - [Securing VPC Env](https://github.com/iam-avinash-jagtap/Secure-VPC-Environment)<br>- [Scale the app using AWS resources](https://github.com/iam-avinash-jagtap/Web-Application_Hosting_using-ASG-LB)<br>- [IAM- Access Management](https://github.com/iam-avinash-jagtap/IAM-Access-Management)                                                                                                                                                                                                                                                        |
+| **Orchestration**            | - Kubernetes                   | - [Ingress- Multi App Kubernetes Cluster](https://github.com/iam-avinash-jagtap/Ingress-Implementation-for-Multi-App-Kubernetes-Cluster)                                                                                                                                                                                                                           |
+| **Infrastructure as Code**   | Terraform                                      | - [Terraform-Powered-EC2-Provisioning-with-Nginx-and-Remote-State-Management](https://github.com/iam-avinash-jagtap/Terraform-Powered-EC2-Provisioning-with-Nginx-and-Remote-State-Management) |
+| **Server Templating**        | Docker                                         | - [Docker project with DockerHub](https://github.com/iam-avinash-jagtap/Deploy-Python-Application-Using-Container)                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **CI/CD**                    | - Jenkins | - [Automated 2-Tier Application Deployment Using Jenkins](https://github.com/iam-avinash-jagtap/Automated-2-Tier-Application-Deployment-Using-Jenkins-and-Docker)                                                                                                                                                                                                                                                                                                                                                                          |
+| **Programming Languages**    | - Python<br>- C++              | - [Basic]()<br>- [Basic]()                                                                                                                            |
+| **Monitoring**               | - CloudWatch<br> - Grafana                                     | - []()                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **Scripting**                | - Bash/Shell                       | - [Upcomming]()                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **SCM**                      | - Git Github                    | - [Gitlab Profile](https://github.com/iam-avinash-jagtap)<br>- [git-operations-hands-on](https://github.com/iam-avinash-jagtap/git-operations-hands-on)                                                                                                                                                                                                                                                                                                                               |
+| **Configuration Management** | Ansible                                        | [Upcomming]()                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Databases**                | - DynamoDB, RDS                                | - [Upcomming]()                                                                                                                                                                                                                                                                                                               |
+|                              |
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iam-avinash-jagtap&label=Profile%20views&color=0e75b6&style=flat" alt="iam-avinash-jagtap" /> </p>
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-avinash-jagtap&show_icons=true&locale=en&layout=compact" alt="iam-avinash-jagtap" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iam-avinash-jagtap&show_icons=true&locale=en" alt="iam-avinash-jagtap" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iam-avinash-jagtap&" alt="iam-avinash-jagtap" /></p>
+
+<!--
+**iamtruptimane/iamtruptimane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 

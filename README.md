@@ -34,15 +34,6 @@ _I primarily work with cloud-based technologies.☁️⚡_
   <img width="12" />
 </p>
 
-### What I’m Working On:
-<p align="left">
-🔧☁️ Working with AWS services like EC2, S3, IAM, VPC, and CloudWatch for cloud infrastructure management.<br>
-🐳📦 Building and deploying containerized applications using Docker for scalable environments.<br>
-⚙️🧪 Automating CI/CD pipelines using Jenkins for smooth and reliable software delivery.<br>
-🛠️📜 Exploring Infrastructure as Code with Terraform to efficiently provision and manage cloud resources.
-
-</p>
-
 ### 📫 How to reach me?📩
 
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/avinash-jagtap-48633b23b/) 👨🏻‍💻
@@ -99,5 +90,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### What I’m Working On:
+<p align="left">
+🔧☁️ Working with AWS services like EC2, S3, IAM, VPC, and CloudWatch for cloud infrastructure management.<br>
+🐳📦 Building and deploying containerized applications using Docker for scalable environments.<br>
+⚙️🧪 Automating CI/CD pipelines using Jenkins for smooth and reliable software delivery.<br>
+🛠️📜 Exploring Infrastructure as Code with Terraform to efficiently provision and manage cloud resources.
+
+</p>
 
 

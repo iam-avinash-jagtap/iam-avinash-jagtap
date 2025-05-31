@@ -1,7 +1,8 @@
-### Hey 👋 What's up?🚀
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtruptimane&label=Profile%20views&color=0e75b6&style=flat" alt="iamtruptimane" /> </p>
+## Hey 👋 What's up?🚀
 
 ###
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtejasmane&label=Profile%20views&color=0e75b6&style=flat" alt="iamtejasmane" /> </p>
+
 <h4 align="left">I am Avinash, a passionate DevOps Practitioner from India.🤖</h4>ㅤㅤㅤㅤㅤㅤㅤ
 
 _I primarily work with cloud-based technologies.☁️⚡_
@@ -48,7 +49,7 @@ _I primarily work with cloud-based technologies.☁️⚡_
  - Follow me on [Mediuam](https://medium.com/@avijagtap04) ✨
  - Direct Connect- [avijagtap0493@gmail.com] 📩
 
-# Projects & Hands-on 
+## Projects & Hands-on 
 
 
 

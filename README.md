@@ -61,7 +61,7 @@ _I primarily work with cloud-based technologies.☁️⚡_
 | **Databases**                | - DynamoDB <br> - RDS                                | - [Upcomming]()                                                                                                                                                                                                                                                                                                               |
 |                              |
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iam-avinash-jagtap&label=Profile%20views&color=0e75b6&style=flat" alt="iam-avinash-jagtap" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtruptimane&label=Profile%20views&color=0e75b6&style=flat" alt="iamtruptimane" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>

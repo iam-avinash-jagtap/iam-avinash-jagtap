@@ -8,11 +8,7 @@
 <p align="center">
   <i>Building scalable, automated & cloud-native infrastructure 🚀</i>
 </p>
-
-
-
-## 🧠 Tech Stack 
-
+ 
 <p align="center">
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif" height="80"/>

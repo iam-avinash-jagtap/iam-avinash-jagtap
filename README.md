@@ -1,100 +1,115 @@
-<h2 align="center">Hi 👋 I'm Avinash</h2>
-<h4 align="center">DevOps Practitioner | Cloud & Automation Enthusiast ☁️⚙️</h4>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iamtruptimane&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<br>
-
----
-
-## 👨‍💻 About Me
-
-- 🚀 Passionate DevOps Practitioner from India  
-- ☁️ Hands-on with cloud-native and AWS-based technologies  
-- ⚙️ Strong focus on automation, scalability, and reliability  
-- 🛠️ Experience across CI/CD, IaC, Containers, and Monitoring  
-
-<br>
-
----
-
-## 🧰 Tech Stack
-
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40"/>
-</p>
-
-### 🔄 CI/CD & Automation
-<p>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40"/>
-</p>
-
-### 📊 Monitoring & Web
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40"/>
-</p>
-
-<br>
-
----
-
-## 🚀 Projects & Hands-on
-
-| Domain | Tools | Highlights |
-|------|------|-----------|
-| ☁️ Cloud | AWS | [Secure VPC Environment](https://github.com/iam-avinash-jagtap/Secure-VPC-Environment)<br>[Web App Hosting using ASG & LB](https://github.com/iam-avinash-jagtap/Web-Application_Hosting_using-ASG-LB)<br>[IAM Access Management](https://github.com/iam-avinash-jagtap/IAM-Access-Management) |
-| ⚙️ Infrastructure as Code | Terraform | [EC2 Provisioning with Remote State](https://github.com/iam-avinash-jagtap/Terraform-Powered-EC2-Provisioning-with-Nginx-and-Remote-State-Management)<br>[Multi-Environment Deployment](https://github.com/iam-avinash-jagtap/Terraform-Based-Multi-Environment-Infrastructure-Deployment) |
-| 🐳 Containers | Docker | [Python App Deployment with DockerHub](https://github.com/iam-avinash-jagtap/Deploy-Python-Application-Using-Container) |
-| 🔄 CI/CD | Jenkins, GitLab CI | [Automated 2-Tier Deployment](https://github.com/iam-avinash-jagtap/Automated-2-Tier-Application-Deployment-Using-Jenkins-and-Docker) |
-| 📊 Monitoring | Prometheus, Grafana | [Live EC2 Monitoring](https://github.com/iam-avinash-jagtap/Live-EC2-Metrics-Monitoring-on-Cloud-using-Prometheus-Grafana) |
-| 🛠️ Configuration Mgmt | Ansible | [AWS EC2 Infra Management](https://github.com/iam-avinash-jagtap/Ansible-Powered-AWS-EC2-Infrastructure-Management) |
-| 📜 Scripting | Bash | [DevOps Tool Installation Scripts](https://github.com/iam-avinash-jagtap/DevOps-Tools-Installation-Scripts) |
-| 🔐 SCM | Git, GitHub, GitLab | [Git Operations Hands-on](https://github.com/iam-avinash-jagtap/git-operations-hands-on) |
-
-<br>
-
----
-
-## 🔭 Current Focus
-
-- ☁️ AWS infrastructure design and optimization  
-- 🐳 Containerized application deployments  
-- ⚙️ CI/CD automation using Jenkins & GitLab  
-- 📜 Infrastructure as Code with Terraform  
-
-<br>
-
----
-
-## 📫 Connect With Me
-
-- 👨🏻‍💻 LinkedIn: [Avinash Jagtap](https://www.linkedin.com/in/avinash-jagtap-48633b23b/)
-- ✨ Medium: [@avijagtap04](https://medium.com/@avijagtap04)
-- 📩 Email: [avijagtap0493@gmail.com](mailto:avijagtap0493@gmail.com)
-
-<br>
-
----
-
-## 📊 GitHub Stats
+<h1 align="center">Hey 👋 I'm Avinash</h1>
+<h3 align="center">DevOps Practitioner | Cloud | Automation | CI/CD ⚙️☁️</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-avinash-jagtap&show_icons=true&locale=en&layout=compact" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=iam-avinash-jagtap&show_icons=true&locale=en" height="160"/>
+  <i>I build, automate, scale and monitor cloud-native infrastructure 🚀</i>
+</p>
+
+---
+
+## ⚡ About Me
+
+<h4 align="left">
+I am Avinash, a passionate DevOps Practitioner from India 🤖  
+</h4>
+
+- ☁️ Cloud-focused DevOps Engineer  
+- ⚙️ Automation-first mindset  
+- 🔁 CI/CD & Infrastructure as Code enthusiast  
+- 📈 Focused on scalable & reliable systems  
+
+---
+
+## 🧠 Tech I Work With (Animated Stack)
+
+<p align="center">
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif" height="80"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif" height="80"/>
+  </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif" height="80"/>
+  </a>
+  <a href="https://docs.gitlab.com/ee/ci/" target="_blank">
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif" height="70"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-avinash-jagtap" height="160"/>
+  <a href="https://www.terraform.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" height="70"/>
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/jenkins.gif" height="70"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/linux.gif" height="70"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ DevOps | Cloud | Automation
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="45"/>
+</p>
+
+---
+
+## 🚀 Projects & Hands-on Experience
+
+| 🔥 Domain | ⚙️ Tools | 🚀 Projects |
+|---------|---------|------------|
+| **Cloud** | AWS | [Secure VPC Env](https://github.com/iam-avinash-jagtap/Secure-VPC-Environment)<br>[ASG + LB App Scaling](https://github.com/iam-avinash-jagtap/Web-Application_Hosting_using-ASG-LB)<br>[IAM Access Management](https://github.com/iam-avinash-jagtap/IAM-Access-Management) |
+| **Kubernetes** | K8s | [Ingress – Multi App Cluster](https://github.com/iam-avinash-jagtap/Ingress-Implementation-for-Multi-App-Kubernetes-Cluster) |
+| **Terraform** | IaC | [EC2 + Remote State](https://github.com/iam-avinash-jagtap/Terraform-Powered-EC2-Provisioning-with-Nginx-and-Remote-State-Management)<br>[Multi-Env Infra](https://github.com/iam-avinash-jagtap/Terraform-Based-Multi-Environment-Infrastructure-Deployment) |
+| **CI/CD** | Jenkins | [2-Tier Automated Deployment](https://github.com/iam-avinash-jagtap/Automated-2-Tier-Application-Deployment-Using-Jenkins-and-Docker) |
+| **Monitoring** | Prometheus | [Live EC2 Metrics](https://github.com/iam-avinash-jagtap/Live-EC2-Metrics-Monitoring-on-Cloud-using-Prometheus-Grafana) |
+| **Automation** | Bash | [DevOps Tool Scripts](https://github.com/iam-avinash-jagtap/DevOps-Tools-Installation-Scripts) |
+
+---
+
+## 🔭 What I’m Currently Working On
+
+<p align="left">
+🔧☁️ Designing AWS infrastructure (EC2, VPC, IAM, S3, CloudWatch)<br>
+🐳📦 Containerizing applications with Docker<br>
+⚙️🧪 Automating CI/CD pipelines using Jenkins & GitLab CI<br>
+🛠️📜 Managing infra using Terraform & Ansible
+</p>
+
+---
+
+## 📫 Let’s Connect
+
+- 👨🏻‍💻 LinkedIn → https://www.linkedin.com/in/avinash-jagtap-48633b23b/  
+- ✨ Medium → https://medium.com/@avijagtap04  
+- 📩 Email → avijagtap0493@gmail.com  
+
+---
+
+## 📊 GitHub Stats (Flex Zone 💪)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-avinash-jagtap&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iam-avinash-jagtap&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-avinash-jagtap&theme=tokyonight"/>
 </p>

@@ -10,18 +10,6 @@
 </p>
 
 
-## ⚡ About Me
-
-<h4 align="left">
-I am Avinash, a passionate DevOps Engineer from India 🤖  
-</h4>
-
-- ☁️ Cloud-focused DevOps Engineer  
-- ⚙️ Automation & Infrastructure as Code mindset  
-- 🔁 CI/CD pipeline & release automation  
-- 📈 Reliability, scalability & performance driven  
-
----
 
 ## 🧠 Tech Stack 
 
@@ -46,7 +34,19 @@ I am Avinash, a passionate DevOps Engineer from India 🤖
   </a>
 </p>
 
+---
+## ⚡ About Me
 
+<h4 align="left">
+I am Avinash, a passionate DevOps Engineer from India 🤖  
+</h4>
+
+- ☁️ Cloud-focused DevOps Engineer  
+- ⚙️ Automation & Infrastructure as Code mindset  
+- 🔁 CI/CD pipeline & release automation  
+- 📈 Reliability, scalability & performance driven
+
+ 
 
 ## 🛠️ DevOps • Cloud • Automation
 
